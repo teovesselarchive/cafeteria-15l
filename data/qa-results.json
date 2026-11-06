@@ -1,0 +1,97 @@
+{
+  "site": "cafeteria-15l",
+  "html_pages": 11,
+  "static_errors": [],
+  "responsive": [
+    {
+      "slug": "cafeteria-15l",
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "slug": "cafeteria-15l",
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "slug": "cafeteria-15l",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "slug": "cafeteria-15l",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "slug": "cafeteria-15l",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "interactions": {
+    "slug": "cafeteria-15l",
+    "menuOpened": true,
+    "menuClosed": true,
+    "initial": "1 of 6",
+    "next": "2 of 6",
+    "gallery": {
+      "closed": true,
+      "restored": true
+    },
+    "faqOpened": true
+  },
+  "targeted_route_rechecks": [],
+  "external_http_checks": [
+    {
+      "url": "https://www.cafeteria15l.com/ada-accessibility/",
+      "status": 200,
+      "final": "https://www.cafeteria15l.com/ada-accessibility/"
+    },
+    {
+      "url": "https://www.cafeteria15l.com/menu/",
+      "status": 200,
+      "final": "https://www.cafeteria15l.com/menu/"
+    },
+    {
+      "url": "https://www.cafeteria15l.com/order-online/",
+      "status": 200,
+      "final": "https://www.cafeteria15l.com/order-online/"
+    },
+    {
+      "url": "https://www.cafeteria15l.com/privacy-policy/",
+      "status": 200,
+      "final": "https://www.cafeteria15l.com/privacy-policy/"
+    },
+    {
+      "url": "https://www.cafeteria15l.com/private-events/",
+      "status": 200,
+      "final": "https://www.cafeteria15l.com/private-events/"
+    },
+    {
+      "url": "https://www.cafeteria15l.com/terms-of-use/",
+      "status": 200,
+      "final": "https://www.cafeteria15l.com/terms-of-use/"
+    },
+    {
+      "url": "https://www.machospitalitygroup.com/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/"
+    },
+    {
+      "url": "https://www.machospitalitygroup.com/planning-faq/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/planning-faq/"
+    }
+  ]
+}

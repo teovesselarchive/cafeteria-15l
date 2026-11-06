@@ -1,0 +1,138 @@
+{
+  "name": "Cafeteria 15L",
+  "website": "https://www.cafeteria15l.com/",
+  "checked": "2026-11-05",
+  "description": "American comfort food, weekend brunch, cocktails, patio dining and private events in Downtown Sacramento.",
+  "address": "1116 15th Street, Sacramento, CA 95814",
+  "phone": "916-492-1960",
+  "email": "info@cafeteria15L.com",
+  "hours": [
+    {
+      "days": "Monday–Thursday",
+      "hours": "11:30am–8:30pm"
+    },
+    {
+      "days": "Friday",
+      "hours": "11:30am–9pm"
+    },
+    {
+      "days": "Saturday",
+      "hours": "9am–9pm"
+    },
+    {
+      "days": "Sunday",
+      "hours": "9am–8pm"
+    }
+  ],
+  "brunch": "Saturday & Sunday 9am–3pm",
+  "happy_hour": "Monday–Friday 3–6pm; not available on show nights",
+  "links": {
+    "menu": "https://www.cafeteria15l.com/menu/",
+    "reservations": "https://tables.toasttab.com/restaurants/cb86be41-ce69-43df-a50e-dd5b17355a69/findTime",
+    "waitlist": "https://tables.toasttab.com/restaurants/cb86be41-ce69-43df-a50e-dd5b17355a69/joinWaitlist",
+    "order": "https://www.cafeteria15l.com/order-online/",
+    "events": "https://www.cafeteria15l.com/private-events/",
+    "event_details": "https://www.machospitalitygroup.com/cafeteria-15l/",
+    "event_faq": "https://www.machospitalitygroup.com/planning-faq/",
+    "sample_event_menu": "https://www.machospitalitygroup.com/cafeteria-15l-sample-menu/",
+    "maps": "https://www.google.com/maps?cid=15700142467618480941",
+    "instagram": "https://www.instagram.com/cafeteria15l/",
+    "facebook": "https://www.facebook.com/cafeteria15L/"
+  },
+  "menu_categories": [
+    "Lunch / Dinner",
+    "Brunch",
+    "Beer",
+    "Cocktails & Wine",
+    "Beverages",
+    "Happy Hour",
+    "Dessert"
+  ],
+  "menu_highlights": [
+    "Truffle Tater Tots",
+    "Cafeteria Burger",
+    "Bacon Wrapped Meatloaf",
+    "Chicken and Waffle",
+    "Grilled Ham & Cheese with Tomato Soup",
+    "Skillet S’mores"
+  ],
+  "event_contact": {
+    "name": "Diane Lally",
+    "phone": "916-442-8855",
+    "email": "events@machospitalitygroup.com"
+  },
+  "event_spaces": [
+    {
+      "name": "The Patio",
+      "standing": 300,
+      "seated": 200,
+      "details": "3,000 square feet, greenery, floating shade ceiling, two fire pits"
+    },
+    {
+      "name": "The Cafeteria Room",
+      "standing": 100,
+      "seated": 55,
+      "details": "Private indoor room; Firepit Patio is separate unless combined booking"
+    },
+    {
+      "name": "Cafeteria Room & Firepit Patio",
+      "standing": 200,
+      "seated": "100–165"
+    },
+    {
+      "name": "The Ultra Room",
+      "standing": 150,
+      "seated": 100,
+      "details": "Lighting, sound and A/V"
+    },
+    {
+      "name": "Full venue buyout",
+      "standing": 1500,
+      "seated": 500
+    }
+  ],
+  "existing_routes": [
+    "/",
+    "/menu/",
+    "/order-online/",
+    "/private-events/",
+    "/terms-of-use/",
+    "/privacy-policy/",
+    "/ada-accessibility/"
+  ],
+  "preserve": [
+    "Toast reservations",
+    "Toast waitlist",
+    "Order-online destination",
+    "All menu categories",
+    "Private event inquiry destination",
+    "Restaurant versus events phone distinction",
+    "Brunch and happy-hour exclusions",
+    "Social and legal links"
+  ],
+  "maps_observations": [
+    "Maps photos visually inspected, including owner patio photo dated November 2024",
+    "Olive umbrellas, white canopy, rattan chairs, timber privacy screens, string lights",
+    "Interior thumbnails show tufted brown leather, exposed ceiling, brick walls, marquee CAFETERIA lettering"
+  ],
+  "image_recommendations": {
+    "hero": "15LMAIN.jpg.webp (1800px wide, distinctive marquee lettering and real dining room)",
+    "alternative": "Cafeteria15L-63.jpg (1920px patio/firepits)",
+    "food": [
+      "AY3A5503-scaled.jpg.webp (fish sandwich, portrait)",
+      "AY3A4782-scaled.jpg.webp (meatloaf)",
+      "AY3A1726-1-scaled.jpg.webp (banana French toast)",
+      "AY3A0467-scaled-e1778010043198.jpg (salad)"
+    ],
+    "events": [
+      "Cafeteria15L-1.jpg (small formal dining)",
+      "Cafeteria15L-116.jpg (large event room)"
+    ]
+  },
+  "uncertainties": [
+    "Hidden anniversary popup still links Resy while current primary homepage reservations link Toast; use current Toast primary.",
+    "Photo dishes should not be assigned specific menu names unless verified; sandwich photo is visibly fish, not Cafeteria Burger.",
+    "Official menu page states 18% service charge for tables of eight or more; prices not transcribed.",
+    "No Google Maps photos downloaded or reused; Maps used for visual research."
+  ]
+}

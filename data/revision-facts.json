@@ -1,0 +1,147 @@
+{
+  "venue": "Cafeteria 15L",
+  "checked": "2026-11-06",
+  "scope": "Official-source content facts for homepage revision. No UI edits.",
+  "signature_items": [
+    {
+      "name": "Bacon Wrapped Meatloaf",
+      "details": "Applewood-smoked bacon around the meatloaf, served with gravy, green beans and garlic mash.",
+      "source_url": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-All-Day-Menu-7.8.26-v2-2.pdf",
+      "status": "verified"
+    },
+    {
+      "name": "Truffle Tater Tots",
+      "details": "Tots finished with herbs, parmesan and truffle oil; ketchup made in-house.",
+      "source_url": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-All-Day-Menu-7.8.26-v2-2.pdf",
+      "status": "verified"
+    },
+    {
+      "name": "Chicken and Waffle",
+      "details": "Southern fried chicken and a Belgian waffle, with sausage country gravy, maple syrup and pecan butter.",
+      "source_url": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-All-Day-Menu-7.8.26-v2-2.pdf",
+      "status": "verified"
+    },
+    {
+      "name": "Grilled Ham & Cheese with Tomato Soup",
+      "details": "Black Forest ham, havarti and white cheddar, paired with tomato soup.",
+      "source_url": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-All-Day-Menu-7.8.26-v2-2.pdf",
+      "status": "verified"
+    },
+    {
+      "name": "Skillet S’mores",
+      "details": "Brownie with marshmallow, graham crackers and Hershey’s chocolate.",
+      "source_url": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-All-Day-Menu-7.8.26-v2-2.pdf",
+      "status": "verified"
+    },
+    {
+      "name": "Baked Banana Brûlée French Toast",
+      "details": "Brûléed banana, banana custard, bacon, caramel and salted maple cream.",
+      "source_url": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-Brunch-Menu-v8-4.2.26.pdf",
+      "status": "verified",
+      "availability": "Weekend brunch"
+    }
+  ],
+  "menu_urls": {
+    "menu": "https://www.cafeteria15l.com/menu/",
+    "lunch_dinner_pdf": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-All-Day-Menu-7.8.26-v2-2.pdf",
+    "brunch_pdf": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-Brunch-Menu-v8-4.2.26.pdf",
+    "drinks_happy_hour_pdf": "https://www.cafeteria15l.com/wp-content/uploads/2026/04/Cafeteria-15L-Drink-Menu-v6-4.2.26-1.pdf"
+  },
+  "weekly_schedule": {
+    "opening_hours": [
+      {
+        "days": "Monday to Thursday",
+        "hours": "11:30am to 8:30pm"
+      },
+      {
+        "days": "Friday",
+        "hours": "11:30am to 9pm"
+      },
+      {
+        "days": "Saturday",
+        "hours": "9am to 9pm"
+      },
+      {
+        "days": "Sunday",
+        "hours": "9am to 8pm"
+      }
+    ],
+    "brunch": {
+      "days": "Saturday and Sunday",
+      "hours": "9am to 3pm"
+    },
+    "happy_hour": {
+      "days": "Monday to Friday",
+      "hours": "3pm to 6pm",
+      "exclusion": "Not available on show nights",
+      "examples": [
+        "$3 off specialty cocktails",
+        "$7 truffle tater tots, cheeseburger sliders or buttermilk fried chicken strips",
+        "$7 well cocktails or house red/white wine"
+      ]
+    },
+    "prime_rib": {
+      "days": "Friday to Sunday",
+      "service": "Dinner",
+      "source_url": "https://www.cafeteria15l.com/wp-content/uploads/2026/07/Cafeteria-15L-All-Day-Menu-7.8.26-v2-2.pdf"
+    },
+    "source_url": "https://www.cafeteria15l.com/"
+  },
+  "parking": {
+    "status": "verified_general_guidance",
+    "text": "Street parking and several parking garages are located around the venue.",
+    "source_url": "https://www.machospitalitygroup.com/planning-faq/",
+    "limits": "No official named garage, parking rate, validation, valet service, or parking entitlement verified. Do not add any of those claims."
+  },
+  "gift_cards": {
+    "status": "verified_official_navigation_destination",
+    "url": "https://order.toasttab.com/egiftcards/cafeteria-15l-1116-15th-st",
+    "source_url": "https://www.cafeteria15l.com/",
+    "local_evidence": "revision-home.html",
+    "note": "Exact href from current official header navigation. Toast purchase flow was not executed."
+  },
+  "mac_rewards": {
+    "status": "verified_official_navigation_destination",
+    "url": "https://www.toasttab.com/mac-hospitality-gift-card-1116-15th-street/rewardsSignup",
+    "source_url": "https://www.cafeteria15l.com/",
+    "local_evidence": "revision-home.html",
+    "note": "Exact current MAC rewards nav href. Avoid legacy mac-rewards.com domain."
+  },
+  "story_facts": [
+    {
+      "fact": "The menu centers on American comfort food; the restaurant serves brunch, lunch and dinner in Downtown Sacramento.",
+      "source_url": "https://www.cafeteria15l.com/"
+    },
+    {
+      "fact": "The private-events patio is 3,000 square feet with greenery, an overhead shade structure and two fire pits.",
+      "source_url": "https://www.machospitalitygroup.com/cafeteria-15l/"
+    },
+    {
+      "fact": "The official anniversary popup identifies Bacon Wrapped Meatloaf and Breakfast Waffle Sandwich as dishes from the earliest menus.",
+      "source_url": "https://www.cafeteria15l.com/",
+      "use_note": "The popup celebrates 15 years but has no verified publication date. The dishes support a comfort-food continuity story, not a new current anniversary promotion."
+    }
+  ],
+  "history_unverified": [
+    "No founding date or designer attribution verified in current official sources. Do not add since-2010 or W Hotels designer claims from third-party listings."
+  ],
+  "photo_candidates": [
+    {
+      "file": "assets-original/AY3A0467-scaled-e1778010043198.jpg",
+      "use": "Unused food detail. Salad photograph; do not assign an exact salad name without explicit caption confirmation."
+    },
+    {
+      "file": "assets-original/cafediningroom2.jpg",
+      "use": "Unused warm dining-room view for story section."
+    },
+    {
+      "file": "assets-original/Cafeteria15L-23.jpg",
+      "use": "Unused wider interior for atmosphere section."
+    }
+  ],
+  "content_cautions": [
+    "Existing fish sandwich image is not a burger. Use generic sandwich caption unless the specific dish is confirmed.",
+    "Keep the show-night exclusion alongside happy-hour hours.",
+    "Use the current corporate capacity of 100 standing / 55 seated for the Cafeteria Room; older venue page differs."
+  ]
+}
